@@ -1,0 +1,7 @@
+{"id":"senkusya","msg":"1習慣で就職してやる"}
+{"id":"kouta","msg":"徹夜でプログラミング中"}
+{"id":"senkusya","msg":"1習慣で就職してやる"}
+{"id":"senkusya","msg":"nodejs結構難しいぜ"}
+{"id":"kouta","msg":"徹夜でプログラミング中"}
+{"id":"kouta","msg":"テスト送信してみます"}
+{"msg":"プログラミング"}
